@@ -2,10 +2,12 @@
 
 /**
  * _islower - Shows 1 if the input is a
- * lowercase character. Another cases, shows
+ * lowercase character. Other cases, shows
  * 0
  *
- * Return: 1 for lowercase character. 0 for the rest.
+ * @c: The character in ASCII code
+ *
+ * Return: 1 for lowercase character. 0 otherwise.
  */
 int _islower(int c)
 {
