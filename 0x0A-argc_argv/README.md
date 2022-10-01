@@ -1,1 +1,1 @@
-It aims to leanr about how to use arguments passed to a program in C.
+It aims to teach about how to use arguments passed to a program in C.
